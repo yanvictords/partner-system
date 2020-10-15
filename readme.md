@@ -19,17 +19,6 @@ Sistema responsável por cadastrar sócio torcedores e gerenciar suas campanhas 
 - porta: 3306
 <br><br>
 
-## Documentação Swagger<br>
-- servidor=localhost<br><br>
-- Serviço de Campanhas
-```
-http://${servidor}:8140/campaign-java/swagger-ui.html
-```
-- Serviço de Sócio Torcedor
-```
-http://${servidor}:8130/partner-java/swagger-ui.html
-```
-<br>
 
 ## Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -80,3 +69,17 @@ Na pasta inicial do projeto, execute:
 ```
 <br>
 Após o sucesso dos passos anterioes, as API's já estarão disponibilizadas para consumo.
+<br>
+<br>
+
+## Documentação Swagger: Lista de API's<br>
+- servidor=localhost<br><br>
+- Serviço de Campanhas
+```
+http://${servidor}:8140/campaign-java/swagger-ui.html
+```
+- Serviço de Sócio Torcedor
+```
+http://${servidor}:8130/partner-java/swagger-ui.html
+```
+<br>
