@@ -29,7 +29,6 @@ http://${servidor}:8130/partner-java/swagger-ui.html
 ## Este projeto utiliza as seguintes tecnologias:
 - Java 11
 - Maven 3.6
-- Docker
 - Spring Boot
 - Docker version 19.03.8
 - MySQL latest
