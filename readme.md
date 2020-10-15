@@ -45,12 +45,16 @@ http://${servidor}:8130/partner-java/swagger-ui.html
 - Documentação de API's com Swagger
 - Feign Client para comunicação com serviços externos
 
+SO Linux.
+
 <br>
 
 ## Pré-requisitos
 - Maven (preferência para a versão 3.6)
 - Docker (preferência para a versão 19.03.8)
 - docker-compose (preferência para a versão 1.25.0)
+
+<br>
 
 ## Execução:
 Na pasta inicial do projeto, execute:
