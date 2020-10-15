@@ -45,7 +45,7 @@ http://${servidor}:8130/partner-java/swagger-ui.html
 - Documentação de API's com Swagger
 - Feign Client para comunicação com serviços externos
 
-SO Linux.
+SO Linux: Ubuntu 20.04.1 LTS.
 
 <br>
 
