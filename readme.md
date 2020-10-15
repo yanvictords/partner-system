@@ -27,6 +27,7 @@ http://${servidor}:8130/partner-java/swagger-ui.html
 ```
 <br>
 ## Este projeto utiliza as seguintes tecnologias:
+
 - Java 11
 - Maven 3.6
 - Spring Boot
