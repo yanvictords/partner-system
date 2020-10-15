@@ -3,12 +3,12 @@ Autor: Yan Victor dos Santos<br>
 Contato: yanvictor_ds@hotmail.com
 <br><br>
 
-## Microserviço de Cadastro de sócio - responsável por:<br>
+## Microserviço de Cadastro de Sócio - responsável por:<br>
 - cadastrar sócio torcedor 
 - orquesrar associação de sócios com campanhas
 <br><br>
 
-## Microserviço de manutenção de campanhas - responsável por:<br>
+## Microserviço de Manutenção de Campanhas - responsável por:<br>
 - criar, deletar, consultar e atualizar campanhas 
 - associar campanhas a um sócio torcedor pelo time
 <br><br>
@@ -29,7 +29,7 @@ http://${servidor}:8130/partner-java/swagger-ui.html
 - Maven 3.6
 - Docker
 - Spring Boot
-- MySQL latesta
+- MySQL latest
 - Jdbc template
 - Flayway para migrations
 - Testes unitários com JUnit
@@ -50,7 +50,7 @@ Na pasta inicial do projeto, execute:
 - Subida dos serviços
 
 ```
-2) sudo docker-compose up --build
+2) sudo docker-compose up
 ```
 
 <br>
