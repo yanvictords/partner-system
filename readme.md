@@ -69,4 +69,5 @@ Na pasta inicial do projeto, execute:
 ```
 3) cd campaign-java && mvn clean flyway:migrate -Dflyway.configFile=src/main/resources/application-dev.properties
 ```
-
+<br>
+Após o sucesso dos passos anterioes, as API's já estarão disponibilizadas para consumo.
