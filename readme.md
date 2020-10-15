@@ -31,6 +31,7 @@ http://${servidor}:8130/partner-java/swagger-ui.html
 - Maven 3.6
 - Spring Boot
 - Docker version 19.03.8
+- docker-compose version 1.25.0
 - MySQL latest
 - Jdbc template
 - Flayway para migrations
