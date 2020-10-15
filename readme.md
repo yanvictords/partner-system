@@ -2,12 +2,12 @@
 Autor: Yan Victor dos Santos<br>
 Contato: yanvictor_ds@hotmail.com
 <br><br>
-Sistema responsável por cadastrar sócio torcedores e gerenciar suas campanhas através de um time.
+Sistema responsável por cadastrar sócio torcedores e gerenciar suas campanhas por meio de seu time.
 <br><br>
 
 ## Microserviço de Cadastro de Sócio - responsável por:<br>
 - cadastrar sócio torcedor 
-- orquesrar associação de sócios com campanhas
+- orquestrar associação de sócios com campanhas
 <br><br>
 
 ## Microserviço de Manutenção de Campanhas - responsável por:<br>
