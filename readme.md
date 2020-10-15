@@ -64,7 +64,7 @@ Na pasta inicial do projeto, execute:
 
 <br>
 
-- Após os passos 1 e 2: Migração de tabelas (executar na pasta inicial, em um novo terminal)
+-  Migração de tabelas (após os passos 1 e 2, executar na pasta inicial em um novo terminal)
 
 ```
 3) cd campaign-java && mvn clean flyway:migrate -Dflyway.configFile=src/main/resources/application-dev.properties
