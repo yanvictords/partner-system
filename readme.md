@@ -72,7 +72,7 @@ Após o sucesso dos passos anterioes, as API's já estarão disponibilizadas par
 <br>
 <br>
 
-## Documentação Swagger: Lista de API's<br>
+## Documentação Swagger para visualização de API's<br>
 - servidor=localhost<br><br>
 - Serviço de Campanhas
 ```
