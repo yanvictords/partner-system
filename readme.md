@@ -50,7 +50,7 @@ Na pasta inicial do projeto, execute:
 - Subida dos serviços
 
 ```
-2) sudo docker-compose up --build
+2) sudo docker-compose up
 ```
 
 <br>
