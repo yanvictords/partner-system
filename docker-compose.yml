@@ -1,0 +1,32 @@
+version: '3'
+
+services:
+  docker-mysql:
+    image: mysql:latest
+    restart: always
+    command: mysqld --default-authentication-plugin=mysql_native_password
+    environment:
+      MYSQL_DATABASE: 'partnerdatabase'
+      MYSQL_USER: 'partner'
+      MYSQL_PASSWORD: 'teampartner'
+      MYSQL_ROOT_PASSWORD: 'teampartner'
+    ports:
+      - '3306:3306'
+    cap_add:
+      - SYS_NICE
+
+  campaign-application:
+    build: ./campaign-java
+    restart: always
+    ports:
+      - 8140:8140
+    depends_on:
+      - docker-mysql
+
+  partner-application:
+    build: ./partner-java
+    restart: always
+    ports:
+      - 8130:8130
+    depends_on:
+      - docker-mysql
