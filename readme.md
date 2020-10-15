@@ -2,10 +2,12 @@
 Autor: Yan Victor dos Santos<br>
 Contato: yanvictor_ds@hotmail.com
 <br><br>
+Sistema responsável por cadastrar sócio torcedores e gerenciar suas campanhas por meio de seu time.
+<br><br>
 
 ## Microserviço de Cadastro de Sócio - responsável por:<br>
 - cadastrar sócio torcedor 
-- orquesrar associação de sócios com campanhas
+- orquestrar associação de sócios com campanhas
 <br><br>
 
 ## Microserviço de Manutenção de Campanhas - responsável por:<br>
@@ -23,12 +25,15 @@ http://${servidor}:8140/campaign-java/swagger-ui.html
 ```
 http://${servidor}:8130/partner-java/swagger-ui.html
 ```
-<br><br>
-## Este projeto utiliza as seguintes tecnologias:
+<br>
+
+## Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
 - Java 11
 - Maven 3.6
-- Docker
 - Spring Boot
+- Docker 19.03.8
+- docker-compose 1.25.0
 - MySQL latest
 - Jdbc template
 - Flayway para migrations
