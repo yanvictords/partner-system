@@ -15,7 +15,7 @@ Sistema responsável por cadastrar sócio torcedores e gerenciar suas campanhas 
 - associar campanhas a um sócio torcedor pelo time
 <br><br>
 
-## Servidor MySQL:<br>
+## Servidor MySQL (latest)<br>
 - porta: 3306
 <br><br>
 
