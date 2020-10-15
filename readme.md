@@ -7,7 +7,7 @@ Sistema responsável por cadastrar sócio torcedores e gerenciar suas campanhas 
 
 ## Microserviço de Cadastro de Sócio - responsável por:<br>
 - cadastrar sócio torcedor 
-- orquestrar associação de sócios com campanhas
+- orquestrar associação de sócios com campanhas vigentes
 <br><br>
 
 ## Microserviço de Manutenção de Campanhas - responsável por:<br>
