@@ -26,6 +26,7 @@ http://${servidor}:8140/campaign-java/swagger-ui.html
 http://${servidor}:8130/partner-java/swagger-ui.html
 ```
 <br>
+
 ## Este projeto utiliza as seguintes tecnologias:
 
 - Java 11
