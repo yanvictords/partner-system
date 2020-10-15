@@ -15,6 +15,10 @@ Sistema responsável por cadastrar sócio torcedores e gerenciar suas campanhas 
 - associar campanhas a um sócio torcedor pelo time
 <br><br>
 
+## Servidor MySQL:<br>
+- porta: 3306
+<br><br>
+
 ## Documentação Swagger<br>
 - servidor=localhost<br><br>
 - Serviço de Campanhas
